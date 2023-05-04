@@ -10,6 +10,7 @@ Your mission is to create a Processing program that demonstrates different physi
 - Reasonably model two other physical forces.
 - Produce different simulations that demonstrate each force individually.
 - Produce a simulation that combines at least 3 of the forces.
+- Use a data structure to hold multile `Orb` (or `Orb` subclasses), to aid in at least 3 of your simulations.
 
 This project will be completed in phases. The first phase will be to work on this document. Use makrdown formatting. For more markdown help [click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
