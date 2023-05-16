@@ -49,11 +49,17 @@ YOUR ANSWER HERE
 
 - Does this force interact with other `Orbs`, or is it applied based on the environment?
   - YOUR ANSWER HERE
-  
+
 - In order to calculate this force, do you need to perform extra intermediary calculations? If so, what?
   - YOUR ANSWER HERE
 
+#### Custom Force 1: NAME OF YOUR FORCE
 
+### Forumla 0
+What is the formula for your force? Including descirptions/definitions for the symbols. You may include a picure of the formula if it is not easily typed.
+
+YOUR ANSWER HERE
+  
 ### Force 1
 - What information that is already present in the `Orb` or `OrbNode` classes does this force use?
   - YOUR ANSWER HERE
@@ -66,7 +72,7 @@ YOUR ANSWER HERE
 
 - Does this force interact with other `Orbs`, or is it applied based on the environment?
   - YOUR ANSWER HERE
-  
+
 - In order to calculate this force, do you need to perform extra intermediary calculations? If so, what?
   - YOUR ANSWER HERE
 
